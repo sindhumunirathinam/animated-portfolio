@@ -32,6 +32,7 @@
 
 .logo{
     width:80px;
+  
 }
 
 .logo-container{
@@ -43,6 +44,8 @@
 .logo-text{
     margin-left:-1.2rem;
     font-size:28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
 }
 
 .nav-items{
@@ -448,7 +451,7 @@ a{
   }
 
   #project1{
-    background-image: url(./images/projects/Project1.png);
+    background-image: url(./images/projects/eye\ background.webp);
   }
 
   #project2{
